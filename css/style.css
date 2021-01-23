@@ -46,68 +46,68 @@
 	margin-bottom: 50px;
 }
 .boxes {
-    width: 1088px;
-    float: left;
-    margin-right: auto;
-    margin-left: auto;
-    margin-bottom: 16px;
+        width: 1088px;
+        float: left;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 16px;
 }
 .section {
 	background-color: #F8F8F8;
 	width: 536px;
 	height: 190px;
-    float: left;
+        float: left;
 	margin-left: auto;
 	margin-right: 16px;
 }
 .section-right {
-    background-color: #F8F8F8;
+        background-color: #F8F8F8;
 	width: 536px;
 	height: 190px;
-    float: right;
+        float: right;
 	margin-right: auto;
 }
 .img-kebab {
 	background-image: url(../img/kbb.png);
 	float: left;
-    width: 168px;
+        width: 168px;
 	height: 190px;
 	margin-right: 16px;
 	background-position: center;
-    background-repeat: no-repeat;
+        background-repeat: no-repeat;
 }
 .img-pizza {
 	background-image: url(../img/pizza.png);
 	float: left;
-    width: 168px;
+        width: 168px;
 	height: 190px;
 	margin-right: 16px;
 	background-position: center;
-    background-repeat: no-repeat;
+        background-repeat: no-repeat;
 }
 .second-section {
 	background-color: #F8F8F8;
 	width: 536px;
 	height: 190px;
-    float: left;
+        float: left;
 	margin-left: auto;
 	margin-right: 16px;
 }
 .second-section-right {
-    background-color: #F8F8F8;
+        background-color: #F8F8F8;
 	width: 536px;
 	height: 190px;
-    float: right;
+        float: right;
 	margin-right: auto;
 }
 .blog-img-pizza {
 	background-image: url(../img/pizza.png);
 	float: left;
-    width: 352px;
+        width: 352px;
 	height: 212px;
 	margin-bottom: 23px;
 	background-position: center;
-    background-repeat: no-repeat;
+        background-repeat: no-repeat;
 }
 .blog-section {
 	height: 360px;
@@ -153,7 +153,7 @@
 .blog-img-khinkali {
 	background-image: url(../img/khinkali.png);
 	float: left;
-    width: 352px;
+        width: 352px;
 	height: 212px;
 	margin-bottom: 23px;
 	background-position: center;
@@ -162,11 +162,11 @@
 .blog-img-kebab {
 	background-image: url(../img/kbb.png);
 	float: left;
-    width: 352px;
+        width: 352px;
 	height: 212px;
 	margin-bottom: 23px;
 	background-position: center;
-    background-repeat: no-repeat;
+        background-repeat: no-repeat;
 }
 .blog-section-right {
 	height: 360px;
