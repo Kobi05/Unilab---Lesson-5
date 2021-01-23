@@ -77,7 +77,7 @@
     background-repeat: no-repeat;
 }
 .img-pizza {
-	background-image: url(../img/test.png);
+	background-image: url(../img/pizza.png);
 	float: left;
     width: 168px;
 	height: 190px;
@@ -101,7 +101,7 @@
 	margin-right: auto;
 }
 .blog-img-pizza {
-	background-image: url(../img/test.png);
+	background-image: url(../img/pizza.png);
 	float: left;
     width: 352px;
 	height: 212px;
@@ -142,4 +142,36 @@
 	color: #B1B1B1;
 	margin-right: auto;
 	margin-left: auto;
+}
+.blog-section-middle {
+	height: 360px;
+	width: 352px;
+	background-color: #F8F8F8;
+	float: left;
+	margin-right: 16px;
+}
+.blog-img-khinkali {
+	background-image: url(../img/khinkali.png);
+	float: left;
+    width: 352px;
+	height: 212px;
+	margin-bottom: 23px;
+	background-position: center;
+    background-repeat: no-repeat;
+}
+.blog-img-kebab {
+	background-image: url(../img/kbb.png);
+	float: left;
+    width: 352px;
+	height: 212px;
+	margin-bottom: 23px;
+	background-position: center;
+    background-repeat: no-repeat;
+}
+.blog-section-right {
+	height: 360px;
+	width: 352px;
+	background-color: #F8F8F8;
+	float: right;
+	margin-right: auto;
 }
